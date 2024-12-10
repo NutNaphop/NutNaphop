@@ -1,7 +1,7 @@
-Hi 👋 My name is Naphop Khumchawna
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi ! My name is Naphop Khumchawna 
 ==================================
 
-CS Student
+Computer Science Student ![](https://i.ibb.co/YLDpZpb/ezgif-7-b72ca89d55.gif) 
 ----------
 
 Looking for apply an internship in Full-Stack or backend Developer
