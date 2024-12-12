@@ -7,7 +7,7 @@ Computer Science Student ![](https://i.ibb.co/YLDpZpb/ezgif-7-b72ca89d55.gif)
 Looking for apply an internship in Full-Stack or backend Developer
 
 * 🌍  I'm based in Rayong , Thailand
-* 🖥️  See my portfolio at [Coming Soon](http://nutnaphop.github,io)
+* 🖥️  See my portfolio at [Naphop's Portfolio](https://naphop-port.vercel.app/)
 * ✉️  You can contact me at [naphop.kcn@gmail.com](mailto:naphop.kcn@gmail.com)
 * ⚡  My personality is ISTJ
 
