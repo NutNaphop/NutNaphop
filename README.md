@@ -4,7 +4,7 @@
 Computer Science Student ![](https://i.ibb.co/YLDpZpb/ezgif-7-b72ca89d55.gif) 
 ----------
 
-Looking for apply an internship in Full-Stack or backend Developer
+Mobile Developer trainee at Ascend money 
 
 * 🌍  I'm based in Rayong , Thailand
 * 🖥️  See my portfolio at [Naphop's Portfolio](https://naphop-port.vercel.app/)
