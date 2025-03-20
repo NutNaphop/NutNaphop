@@ -9,7 +9,7 @@ Mobile Developer trainee at Ascend money
 * 🌍  I'm based in Rayong , Thailand
 * 🖥️  See my portfolio at [Naphop's Portfolio](https://naphop-port.vercel.app/)
 * ✉️  You can contact me at [naphop.kcn@gmail.com](mailto:naphop.kcn@gmail.com)
-* ⚡  My personality is ISTJ
+* ⚡  My personality is ISTJ && INTJ
 
 <a href="https://www.github.com/NutNaphop" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NutNaphop?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
