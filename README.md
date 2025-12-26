@@ -4,7 +4,7 @@
 Computer Science Student ![](https://i.ibb.co/YLDpZpb/ezgif-7-b72ca89d55.gif) 
 ----------
 
-Mobile Developer trainee at Ascend money 
+Looking for a mobile devdeloper, Backend, Dev Job
 
 * 🌍  I'm based in Rayong , Thailand
 * 🖥️  See my portfolio at [Naphop's Portfolio](https://naphop-port.vercel.app/)
@@ -27,9 +27,5 @@ src="https://img.shields.io/github/followers/NutNaphop?logo=github&style=for-the
 <p align="left"> <a href="https://www.github.com/NutNaphop" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Naphop-Khumchawna" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@nutnaphop" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NutNaphop"><img src="https://github-readme-stats.vercel.app/api?username=NutNaphop&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="NutNaphop's GitHub stats" /></a>
 
 <a href="https://github.com/NutNaphop" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NutNaphop&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
